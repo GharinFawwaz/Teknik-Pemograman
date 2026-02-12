@@ -13,7 +13,7 @@ package teknik.pemrograman.pkg1;
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class DataTypes {
+public class No1_DataTypes {
     public static void main(String[] args) {
       
         try (Scanner sc = new Scanner(System.in)) {

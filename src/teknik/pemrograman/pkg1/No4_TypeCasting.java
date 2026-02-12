@@ -1,16 +1,14 @@
-package teknik.pemrograman.pkg1;
-
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+package teknik.pemrograman.pkg1;
 
 /**
  *
- * @author Gharin Fawwaz
+ * @author Gharinfawwaz
  */
-
-class ConvertDataType {
+class No4_TypeCasting {
     static short methodOne(long l) {
         int i = (int) l; return (short)i;
     }
