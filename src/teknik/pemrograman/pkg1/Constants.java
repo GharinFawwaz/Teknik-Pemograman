@@ -6,7 +6,7 @@ package teknik.pemrograman.pkg1;
 
 /**
  *
- * @author Gilang Asmara
+ * @author Gharin Fawwaz
  */
 
 public class Constants {

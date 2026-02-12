@@ -7,7 +7,7 @@ package teknik.pemrograman.pkg1;
 
 /**
  *
- * @author Gilang Asmara
+ * @author Gharin Fawwaz
  */
 
 import java.util.Scanner;
