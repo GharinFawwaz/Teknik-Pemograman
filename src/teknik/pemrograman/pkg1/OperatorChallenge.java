@@ -9,6 +9,7 @@ package teknik.pemrograman.pkg1;
  *
  * @author Gilang Asmara
  */
+
 class OperatorChallenge {
     public static void main(String[] args) {
         int a = 5;
